@@ -1,6 +1,6 @@
 # Frostbearer's Wish - Genshin Impact Wish Dashboard
 
-### Dashboard Link : https://app.powerbi.com/links/NnbQaJZkc6?ctid=6f4432dc-20d2-441d-b1db-ac3380ba633d&pbi_source=linkShare
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/0be3af6b-8eb3-4618-a07f-def14afb3604?ctid=6f4432dc-20d2-441d-b1db-ac3380ba633d&pbi_source=linkShare
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6b816186-c02f-4b79-8b22-53094b59e7df" alt="Dashboard" />
 </p>
