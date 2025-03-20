@@ -55,7 +55,7 @@ We will refer to community-sourced research and data:
 </p>
 
 <p align="center">
-  Calculated by counting the rows in the **All Rolls** table.
+  Calculated by counting the rows in the <b> All Rolls </b> table.
 </p>
 
 ### 2. Pity Counter
