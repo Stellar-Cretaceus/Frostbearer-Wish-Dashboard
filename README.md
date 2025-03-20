@@ -93,7 +93,7 @@ We will refer to community-sourced research and data:
 
 ### 6. Probability of Getting a 5-Star
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/08926b73-240a-4ede-ad8f-fdb04414b833" alt="5-Star Probability" />
+  <img src="https://github.com/user-attachments/assets/2d22ac24-84ee-4300-ad2b-6501ada2b9f6" alt="5-Star Probability" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ We will refer to community-sourced research and data:
   <img src="https://github.com/user-attachments/assets/c60188ad-7631-42af-af47-2c5a773dec68" alt="Wish Count by Wish category" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0d3a47f-9236-4b80-9e65-3e642a2f2e48" alt="Drilling down" />
+  <img src="https://github.com/user-attachments/assets/68ee2ab0-346d-4558-a012-81d6315823f8" alt="Drilling down" />
 </p>
 <p align="center">
   Bar chart to display graph of pulling by category, it can also drill down to see each banner 
