@@ -1,6 +1,10 @@
 # Frostbearer's Wish - Genshin Impact Wish Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/links/NnbQaJZkc6?ctid=6f4432dc-20d2-441d-b1db-ac3380ba633d&pbi_source=linkShare
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b816186-c02f-4b79-8b22-53094b59e7df" alt="Dashboard" />
+</p>
+
 
 ## Introduction
 
@@ -44,7 +48,7 @@ We will refer to community-sourced research and data:
   - **Banner name** & **Time range**  
   We will validate each wish entry by checking if its timestamp falls within the correct banner period, ensuring accurate banner-to-pull mapping.
 
-## Visualization Approached
+## Visualization
 ### 1. Total Roll Count
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b42b69ac-f193-4941-8103-932f47b165b8" alt="Total Roll Count" />
