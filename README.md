@@ -40,11 +40,11 @@ To calculate the correct probability and visualize it, We will refer to communit
 
 - To disambiguate banners with identical names but different periods (e.g., Secretum Secretorum have 3 reruns), we can count the number of reruns and assign an index or version number to separate them (e.g., Secretum Secretorum - 1).
 
-- Some wish records have banner name collisions. We can clean this by identifying the time periods when banners overlap or merge. Then, we can apply the correct merged banner name and create a **new key table** to handle these relationships properly.
-
 - Since the "Wish" history table contains **inaccurate banner names**, we need a robust method to distinguish which rolls belong to which banners. The primary matching criteria will be:
   - **Banner name** & **Time range**  
   We will validate each wish entry by checking if its timestamp falls within the correct banner period, ensuring accurate banner-to-pull mapping.
+
+- Some wish records have banner name collisions. We can clean this by identifying the time periods when banners overlap or merge. Then, we can apply the correct merged banner name and create a **new key table** to handle these relationships properly.
 
 ## Visualization
 ### 1. Total Roll Count
