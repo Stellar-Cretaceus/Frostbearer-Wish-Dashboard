@@ -24,9 +24,7 @@ During 2.3, the Character Event banner introduced 'Wish 2' type, where instead o
 ## Soft Pity System & Probability Calculation
 Genshin Impact uses a dynamic probability system for 5-star drops, also known as Soft Pity. This means the chance of pulling a 5-star increases after a certain number of unsuccessful pulls (typically around the 73rd pull for character banners).
 
-To calculate the correct probability and visualize it:
-
-We will refer to community-sourced research and data:
+To calculate the correct probability and visualize it, We will refer to community-sourced research and data:
 - [The 5\* rate is not uniform - 0.6%, there is a soft pity (Reddit)](https://www.reddit.com/r/Genshin_Impact/comments/jo9d9d/the_5_rate_is_not_uniform_06_there_is_a_soft_pity/)
 - [Soft pity mechanics for the Weapon Banner (Reddit)](https://www.reddit.com/r/Genshin_Impact/comments/1frlf11/what_is_the_soft_pity_for_the_weapon_banner/)
 
