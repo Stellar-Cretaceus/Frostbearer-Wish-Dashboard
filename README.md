@@ -90,7 +90,7 @@ To calculate the correct probability and visualize it, We will refer to communit
 </p>
 
 <p align="center">
-  A leaderboard showing characters obtained with the **lowest pity count** in the **All Rolls** data.
+  A leaderboard showing characters obtained with the lowest pity count in the All Rolls data.
 </p>
 
 ### 6. Probability of Getting a 5-Star
@@ -99,7 +99,7 @@ To calculate the correct probability and visualize it, We will refer to communit
 </p>
 
 <p align="center">
-  These cards use the **Pity Counter** to look up the 5-star probability calculated in the **Pull Probability** table.
+  These cards use the Pity Counter to look up the 5-star probability calculated in the Pull Probability table.
 </p>
 
 ### 7.  Wish Count by Wish category
