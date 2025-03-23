@@ -16,10 +16,16 @@ Typically, Genshin Impact players aim for 5-star characters, the highest rarity 
 
 This visualization covers the Descriptive type from the four types of Data Analytics, as it visualizes past data and explains the pulling behavior on each banner. It may also lightly touch on the Predictive type by estimating the probability of getting a 5-star on the next wish using pity as a measure.
 
-## About the dataset
+## Known Data Limitation
 
-The dataset that i have provided contains neat and clean information but there is a little bit of problem that i've discovered, some banners are not like the others.   
-During 2.3, the Character Event banner introduced 'Wish 2' type, where instead of One character featuring in a banner (e.g. Ganyu for Adrift in the Harbor) , it would be Dual Characters (e.g. Albedo and Eula both featured in their banner at the same time) while those banners shared pity count, but 'Wish History' of Genshin Hadn't been update to seperate the count of each banner, so the name appeared on the data is not the 100% right and we may have to get around with it.
+While the dataset provided is generally clean and well-structured, there is a notable inconsistency regarding certain banner types.
+
+Starting from Version 2.3, Genshin Impact introduced **dual-character event banners** under the "Wish 2" type. Unlike standard banners that typically feature a single 5-star character (e.g., *Ganyu* in "Adrift in the Harbor"), these banners featured **two characters simultaneously** (e.g., *Albedo* and *Eula* sharing the same banner and pity count).
+
+However, the current **Wish History export from Genshin Impact** does not differentiate between these dual banners within the dataset. As a result, character names may not always perfectly align with their original banners, and this may require additional logic or workarounds during data processing to maintain accuracy.   
+
+You can read more about [changes in wish history around 2.3 and 3.0 version.](https://genshin-impact.fandom.com/wiki/Wish/History)  
+
 
 ## Soft Pity System & Probability Calculation
 Genshin Impact uses a dynamic probability system for 5-star drops, also known as Soft Pity. This means the chance of pulling a 5-star increases after a certain number of unsuccessful pulls (typically around the 73rd pull for character banners).
@@ -121,5 +127,19 @@ To calculate the correct probability and visualize it, We will refer to communit
   Card to display count of items, calculated by count of each item filtered by rarity
 </p>
 
+## Planned Features
 
+As part of the ongoing development of this project, the following enhancements are planned to improve both the statistical accuracy and user experience of the dashboard:
+
+1. **Character Pull Probability with Negative Binomial Distribution**  
+   Incorporate a negative binomial distribution model to calculate the probability of pulling a specific 5-star character on the nth pull, improving accuracy over the current uniform/soft pity approach.
+
+2. **Refined Stacked Graph with Day-Level Accuracy**  
+   Adjust and optimize the existing stacked graph visualization to display more granular, day-level data, ensuring more precise trends and insights on primogem accumulation and banner cycles.
+
+3. **Primogem Calculator + Savings Optimization**  
+   Develop a calculator to estimate the number of primogems needed for the next guaranteed 5-star pull, alongside a guide for the fastest passive gem farming strategies (e.g., daily commissions, spiral abyss rewards, events, etc.).
+
+4. **50/50 Outcome and Next 5-Star Predictor**  
+   Add a feature to calculate and visualize the player’s 50/50 history and predict the likelihood of winning/losing future 50/50 rolls based on historical data.
 
