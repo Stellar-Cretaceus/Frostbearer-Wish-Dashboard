@@ -68,7 +68,7 @@ To calculate the correct probability and visualize it, We will refer to communit
 </p>
 
 <p align="center">
-  Calculated by filtering each banner type, then sorting by **Time** and **Rolls**, and identifying when a 5-star or 4-star rank is obtained.
+  Calculated by filtering each banner type, then sorting by Time and Rolls, and identifying when a 5-star or 4-star rank is obtained.
 </p>
 
 ### 3. Wish by Time
@@ -78,7 +78,7 @@ To calculate the correct probability and visualize it, We will refer to communit
 
 <p align="center">
   This graph visualizes wish activity over time, categorized by item rarity (3-star, 4-star, 5-star).  
-  The time granularity is set to **daily**, showing detailed day-by-day trends.
+  The time granularity is set to daily, showing detailed day-by-day trends.
 </p>
 
 ### 4. Most Pulled Banner
