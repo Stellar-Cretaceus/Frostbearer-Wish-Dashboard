@@ -59,7 +59,7 @@ To calculate the correct probability and visualize it, We will refer to communit
 </p>
 
 <p align="center">
-  Calculated by counting the rows in the <b> All Rolls </b> table.
+  Calculated by counting the rows in the All Rolls table, it can be changed dynamically to Rolls of each category (e.g. Total Character Event rolls, each banner rolls).
 </p>
 
 ### 2. Pity Counter
@@ -68,7 +68,7 @@ To calculate the correct probability and visualize it, We will refer to communit
 </p>
 
 <p align="center">
-  Calculated by filtering each banner type, then sorting by Time and Rolls, and identifying when a 5-star or 4-star rank is obtained.
+  Calculated by filtering each banner type, then sorting by Time and Rolls, and identifying when a 5-star or 4-star rank is obtained, if there is no lastest 5-stars/4-stars we may count all rolls left as pity instead.
 </p>
 
 ### 3. Wish by Time
@@ -78,7 +78,7 @@ To calculate the correct probability and visualize it, We will refer to communit
 
 <p align="center">
   This graph visualizes wish activity over time, categorized by item rarity (3-star, 4-star, 5-star).  
-  The time granularity is set to daily, showing detailed day-by-day trends.
+  The time granularity is set to daily, showing detailed day-by-day trends. we can drill up to see other ranges (e.g. by months, by years)
 </p>
 
 ### 4. Most Pulled Banner
@@ -87,7 +87,7 @@ To calculate the correct probability and visualize it, We will refer to communit
 </p>
 
 <p align="center">
-  A dynamic table displaying the top banners with the highest pull counts.
+  A dynamic table displaying the top banners with the highest pull counts, will be updated dynamically according to selected data.
 </p>
 
 ### 5. Luckiest Pull
