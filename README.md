@@ -52,6 +52,21 @@ To calculate the correct probability and visualize it, We will refer to communit
 
 - Some wish records have banner name collisions. We can clean this by identifying the time periods when banners overlap or merge. Then, we can apply the correct merged banner name and create a **new key table** to handle these relationships properly.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/63efc289-6211-43f9-81f7-987459f4a1b3" alt="Before" />
+  
+</p>
+<p align="center" style="margin-top: -10px; font-weight: bold; font-size: 16px;">
+  Before
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4758a175-a6e2-4c68-b01d-191991e63735" alt="After" />
+</p>
+<p align="center" style="margin-top: -10px; font-weight: bold; font-size: 16px;">
+  After
+</p>
+
 ## Visualization
 ### 1. Total Roll Count
 <p align="center">
